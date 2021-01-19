@@ -1,0 +1,6 @@
+{
+    "name": "ModernRetail/Contact",
+    "autoload": {
+        "psr-4": { "ModernRetail\\Contact\\": "" },
+        "files": [ "registration.php" ]
+    } }
